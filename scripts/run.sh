@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-# TODO
+g++ -I src/include -L src/lib -o main ./src/*.cpp -w -lSDL2

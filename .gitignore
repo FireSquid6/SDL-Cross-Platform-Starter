@@ -1,2 +1,6 @@
-main.exe
+*.exe
 *.o
+
+.ccls-cache
+.direnv
+.envrc
