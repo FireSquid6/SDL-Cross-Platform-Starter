@@ -28,3 +28,4 @@ In VSCode I've defined a "Task" to quickly run the program. If you
 # TODO
 - [ ] make sure it works on linux
 - [ ] make sure it works on mac
+- [ ] add testing
