@@ -27,4 +27,4 @@ In VSCode I've defined a "Task" to quickly run the program. If you
 
 # TODO
 - [ ] make sure it works on linux
-- [ ] get it working with multiple files
+- [ ] make sure it works on mac
