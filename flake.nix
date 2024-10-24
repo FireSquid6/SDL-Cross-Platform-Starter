@@ -16,6 +16,9 @@
         libgcc
         llvmPackages_17.libcxxClang
         ccls
+
+        SDL
+        SDL2.dev
       ];
     };
   };
