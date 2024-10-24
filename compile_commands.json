@@ -1,0 +1,32 @@
+[
+  {
+    "arguments": [
+      "/nix/store/vh9fsdhgxcnab2qk7vdp2palkkn6j3cp-gcc-wrapper-13.3.0/bin/g++",
+      "-c",
+      "-I",
+      "./src",
+      "-w",
+      "-o",
+      "main",
+      "./src/main.cpp"
+    ],
+    "directory": "/home/firesquid/source/SDL-Cross-Platform-Starter",
+    "file": "/home/firesquid/source/SDL-Cross-Platform-Starter/src/main.cpp",
+    "output": "/home/firesquid/source/SDL-Cross-Platform-Starter/main"
+  },
+  {
+    "arguments": [
+      "/nix/store/vh9fsdhgxcnab2qk7vdp2palkkn6j3cp-gcc-wrapper-13.3.0/bin/g++",
+      "-c",
+      "-I",
+      "./src",
+      "-w",
+      "-o",
+      "main",
+      "./src/module.cpp"
+    ],
+    "directory": "/home/firesquid/source/SDL-Cross-Platform-Starter",
+    "file": "/home/firesquid/source/SDL-Cross-Platform-Starter/src/module.cpp",
+    "output": "/home/firesquid/source/SDL-Cross-Platform-Starter/main"
+  }
+]
